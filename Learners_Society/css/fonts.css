@@ -1,0 +1,47 @@
+@font-face
+{
+    font-family: 'ConcertOne';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Concert_One/ConcertOne-Regular.ttf');
+}
+
+@font-face
+{
+    font-family: 'BioRhyme';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/BioRhyme/BioRhyme-Light.ttf');
+}
+
+@font-face
+{
+    font-family: 'Dosis';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Dosis/Dosis-Bold.ttf');
+}
+
+@font-face
+{
+    font-family: 'Indie_Flower';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/IndieFlower/IndieFlower.ttf');
+}
+
+@font-face
+{
+    font-family: 'Merriweather';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Merriweather/Merriweather-Regular.ttf');
+}
+
+@font-face
+{
+    font-family: 'Raleway';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Raleway/Raleway-Bold.ttf');
+}
